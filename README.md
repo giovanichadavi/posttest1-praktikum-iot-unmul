@@ -36,4 +36,4 @@ Buatlah rangkaian yang dapat mengatur kecerahan lampu dan Tone / nada Buzzer den
 2. ![WhatsApp Image 2023-03-23 at 20 20 49](https://user-images.githubusercontent.com/73802990/227202270-ef330dad-4388-4f11-8b16-d0c15b007c6d.jpeg)
 
 
-LINK VIDEO : https://drive.google.com/file/d/1b7r-gPXd4ANiYTydgIm_MQV7B5Py_3yC/view?usp=drivesdk
+LINK VIDEO : https://drive.google.com/file/d/1LIcsSrfWotVwpsyuk_NOp4pv5pnrgYHk/view?usp=share_link
